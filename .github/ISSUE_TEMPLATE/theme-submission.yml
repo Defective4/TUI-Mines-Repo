@@ -1,0 +1,41 @@
+name: Theme submission
+description: Share your theme
+labels: "Theme"
+title: "[Theme] "
+body:
+- type: markdown
+  attributes:
+    value: |
+      # Welcome!
+      You are about to submit a custom theme.
+      Please fill in the fields below and don't forget to upload the theme file!
+      To share your theme follow [the instructions](https://github.com/Defective4/TUI-Mines-Repo#submitting-a-theme)
+- type: input
+  id: name
+  validations:
+    required: true
+  attributes:
+    label: "Theme name"
+    description: "Enter your theme's name"
+- type: textarea
+  id: desc
+  validations:
+    required: false
+  attributes:
+    label: "Theme description (optional)"
+    description: "Provide a short description for your project"
+- type: input
+  id: version
+  validations:
+    required: true
+  attributes:
+    label: "Theme version"
+    description: "Leave at 1.0 if not updating"
+    value: "1.0"
+- type: textarea
+  id: file
+  validations:
+    required: true
+  attributes:
+    label: "Upload the file"
+    description: "You can drag and drop your .zip file below"

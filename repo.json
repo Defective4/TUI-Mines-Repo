@@ -1,0 +1,13 @@
+{
+  "themes": [
+    {
+      "url": "https://github.com/Defective4/TUI-Mines-Repo/raw/master/themes/pinkish.json",
+      "name": "Pink-ish theme",
+      "description": "An example theme.\n This is a variation of pitch black built-in theme.",
+      "version": "1.0",
+      "author": "Defective",
+      "addedDate": "2023-10-06 16:10"
+    }
+  ],
+  "replays": []
+}

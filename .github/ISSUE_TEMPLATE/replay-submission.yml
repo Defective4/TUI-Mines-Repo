@@ -1,0 +1,18 @@
+name: Replay submission
+description: Share your replay
+labels: "Replay"
+title: "[Replay] "
+body:
+- type: markdown
+  attributes:
+    value: |
+      # Welcome!
+      You are about to submit a replay.
+      To share your replay follow [the instructions](https://github.com/Defective4/TUI-Mines-Repo#submitting-a-replay)
+- type: textarea
+  id: file
+  validations:
+    required: true
+  attributes:
+    label: "Upload the file"
+    description: "You can drag and drop your .zip file below"
