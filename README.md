@@ -20,6 +20,6 @@ using an appropriate template!
 1. Export the replay using in-game replay viewer.  
    Navigate to **Game Menu > Replays**, select the replay you want to share and select `Share`.  
    Now just save the replay file to the location of your choice.
-2. Packe resulting `jbcfrt` file into a `zip archive`.
+2. Pack resulting `jbcfrt` file into a `zip archive`.
 3. [Create an issue](https://github.com/Defective4/TUI-Mines-Repo/issues/new?assignees=&labels=Replay&projects=&template=replay-submission.yml&title=%5BReplay%5D+) and attach your `zip` file.
 4. Done! After your replay is accepted it will be available to download in the in-game replay browser!
