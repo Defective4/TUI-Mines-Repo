@@ -1,0 +1,33 @@
+{
+  "baseForeground": {
+    "red": 255,
+    "green": 127,
+    "blue": 39
+  },
+  "baseBackground": {
+    "red": 255,
+    "green": 255,
+    "blue": 85
+  },
+  "editableForeground": {
+    "red": 255,
+    "green": 127,
+    "blue": 35
+  },
+  "editableBackground": {
+    "red": 255,
+    "green": 255,
+    "blue": 85
+  },
+  "selectedForeground": {
+    "red": 255,
+    "green": 127,
+    "blue": 35
+  },
+  "selectedBackground": {
+    "red": 255,
+    "green": 255,
+    "blue": 255
+  },
+  "themeVersion": 1
+}
