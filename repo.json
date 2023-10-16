@@ -17,5 +17,18 @@
       "addedDate": "2023-10-06 21:37"
     }
   ],
-  "replays": []
+  "replays": [
+    {
+      "width": 18,
+      "height": 18,
+      "bombs": 40,
+      "addedTime": "2023-10-17 00:03",
+      "createdTime": "2023-10-08 14:17",
+      "playTime": 52000,
+      "difficulty": 2,
+      "url": "https://github.com/Defective4/TUI-Mines-Repo/raw/master/replays/example.jbcfrt",
+      "identifier": "Example",
+      "author": "Defective"
+    }
+  ]
 }
